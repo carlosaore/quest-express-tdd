@@ -1,4 +1,6 @@
-// test/app.integration.spec.js
+// the bit about changing package.json didn't work on my side so I just changed the .env sorry
+
+
 const request = require('supertest');
 const app = require('../app');
 const connection = require('../connection');
